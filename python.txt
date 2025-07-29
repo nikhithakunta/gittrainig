@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hi
 how 
+=======
+hiiii
+>>>>>>> 6ff266b23820fd44ceec6a1b5e0dabfa22b07001
